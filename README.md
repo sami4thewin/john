@@ -2,4 +2,5 @@ John Ruby Lesson
 ---
 
 # About john
-Stuff about Johns journey
+
+John created the best app the world has ever seen!
