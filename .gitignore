@@ -1,0 +1,11 @@
+# Hide Pribate Keys
+private-keys.md
+
+# Hide Mac System Files
+.exe
+.dmg
+Thumbs.db
+.Trashes
+.Spotlight-V100
+.DS_Store?
+.DS_Store
