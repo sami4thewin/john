@@ -1,5 +1,5 @@
 John Ruby Lesson
 ---
 
-# About
+# About john
 Stuff about Johns journey
