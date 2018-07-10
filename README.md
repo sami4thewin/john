@@ -1,5 +1,6 @@
 John Ruby Lesson
 ---
 
-# About john
-Stuff about Johns journey
+# About Johns Ruby Lesson
+
+John has been programming for 300 hours. He was made over 500 applications. 
