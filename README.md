@@ -1,10 +1,11 @@
-John Ruby Lesson
----
+John Realty Group Website
+--
 
-# About John
+# Description
 
-John has been programming for 300 hours. He was made over 500 applications. 
-# About Johns Ruby Lesson
+This is an example site for the Intro to Front-end Web Development Course at The Flatiron School
 
-John created the best app the world has ever seen! The best ever!
+# Contact
+
+email: Jpena91@gmail.com
 
